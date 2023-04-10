@@ -5,6 +5,7 @@
     "build": "next build",
     "export": "next build && next export",
     "start": "next start",
+    "restart": "next build && next start",
     "typecheck": "tsc"
   },
   "dependencies": {
