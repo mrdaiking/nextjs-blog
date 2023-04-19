@@ -11,6 +11,7 @@ type PostType = {
   ogImage: {
     url: string
   }
+  meta: string[]
   content: string
 }
 
